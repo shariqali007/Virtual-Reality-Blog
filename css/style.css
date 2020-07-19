@@ -1,0 +1,32 @@
+
+/* Base Styles ----------------- */
+
+body {
+  font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
+  margin: 0;
+}
+
+h1 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 5.625rem;
+  font-family: Roboto Slab;
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+
+
+
+
+/* Main Styles ---------------------- */
+.main-header {
+  background-color: rgb(8, 121, 214);
+}
+
+.primary-content, .secondary-content ,.main-header, .main-footer{
+  text-align: center;
+}
